@@ -1,0 +1,8 @@
+{
+	"name": "ismaelet/interface-mailchimp",
+	"autoload": {
+		"psr-4": {
+			"Ismaelet\\Interface\\Mailchimp\\": "src"
+		}
+	}
+}
